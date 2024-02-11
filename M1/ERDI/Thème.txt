@@ -1,0 +1,4 @@
+IAAA-24 - Le modèle "transformeur"
+"What is a Transformer ?" - https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
+ "The illustrated transformer" - http://jalammar.github.io/illustrated-transformer/
+ "BERT" - https://arxiv.org/abs/1810.04805
